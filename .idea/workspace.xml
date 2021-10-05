@@ -2,19 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e66d6e3d-37a7-49e3-b2c8-a1e7cc63cb97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BUILDING.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CONTRIBUTING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RUNNING.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/json-20210307.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/catalina.2021-10-05.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/host-manager.2021-10-05.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/localhost.2021-10-05.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/localhost_access_log.2021-10-05.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/manager.2021-10-05.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapps/app/WEB-INF/classes/JsonServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapps/app/WEB-INF/classes/JsonServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapps/app/jsonbook.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lib1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/idea/Tomcat 9.0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Tomcat 9.0.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/idea/libraries/bin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/bin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/idea/libraries/lib.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/idea/libraries/lib1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lib1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapps/app/WEB-INF/classes/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/webapps/app/WEB-INF/classes/HelloServlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +22,16 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar!/META-INF/maven/com.google.code.gson/gson/pom.xml" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="1z0JnujpWQlm02qFNNkP48F7z8E" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -34,11 +43,20 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/json-20210307.jar" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -59,7 +77,19 @@
       <workItem from="1633312147935" duration="7616000" />
       <workItem from="1633347331528" duration="3310000" />
       <workItem from="1633357561854" duration="550000" />
+      <workItem from="1633358142639" duration="875000" />
+      <workItem from="1633403223132" duration="14669000" />
+      <workItem from="1633446810740" duration="277000" />
+      <workItem from="1633447110180" duration="303000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Push">
+      <created>1633358253254</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1633358253254</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,6 +109,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initial Push" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Push" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

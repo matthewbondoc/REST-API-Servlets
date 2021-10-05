@@ -33,8 +33,13 @@
       <root url="jar://$PROJECT_DIR$/lib/tomcat-util-scan.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/jaspic-api.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/tomcat-util.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/json-20210307.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
+    <excluded>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar!/" />
+    </excluded>
   </library>
 </component>
